@@ -11,4 +11,4 @@ I design robust MLOps infrastructure, optimize data pipelines, and benchmark lar
 - **Core Focus:** LLM Fine-tuning (QLoRA/Unsloth), Distributed Training, Infrastructure Automation
 
 ### 📊 GitHub Stats
-![Azuree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azuree1012&show_icons=true&theme=tokyonight)
+![Azuree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=azizu1012&show_icons=true&theme=tokyonight)
